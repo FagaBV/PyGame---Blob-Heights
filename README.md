@@ -1,2 +1,4 @@
 # PyGame---Blob-Heights
 A simple game written in python using the pygame library, featuring 3 levels
+> [!TIP]
+> Helpful advice for doing things better or more easily.
