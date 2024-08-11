@@ -6,7 +6,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 > [!IMPORTANT]
-> Blob Heights is a platformer game made 100% using pythong and the pygame library, the key of the game is to reach the end [the 3th level] without losing a heart
+> Blob Heights is a platformer game made 100% using python and the pygame library, the key of the game is to reach the end without losing a heart
 > Do you think you can manage to finish it ?
 
 ### Added to the game :
