@@ -14,9 +14,9 @@
 At the moment the project has the following features+:
 
 - [x] 60 FPS
-- [x] Player Character [Controled using the Arrow Keys]
+- [x] Player Character [Walk using the Arrow Keys]
 - [x] Platforms / Lava [That can interact with the player]
-- [ ] Functinal GUI [Hearts Left / Score / Best Score]
+- [ ] Functional GUI [Hearts Left / Score / Best Score]
 - [ ] Interface [Start Game / Options / Exit]
 - [ ] Character Selection
 - [ ] 15 Levels
